@@ -1,0 +1,5 @@
+C:\Users\UX508293\Documents\NET-Basic\Modulo5\Reflection\FileConfigurationProviderDLL\bin\Debug\FileConfigurationProviderDLL.dll
+C:\Users\UX508293\Documents\NET-Basic\Modulo5\Reflection\FileConfigurationProviderDLL\bin\Debug\FileConfigurationProviderDLL.pdb
+C:\Users\UX508293\Documents\NET-Basic\Modulo5\Reflection\FileConfigurationProviderDLL\obj\Debug\FileConfigurationProviderDLL.csproj.CoreCompileInputs.cache
+C:\Users\UX508293\Documents\NET-Basic\Modulo5\Reflection\FileConfigurationProviderDLL\obj\Debug\FileConfigurationProviderDLL.dll
+C:\Users\UX508293\Documents\NET-Basic\Modulo5\Reflection\FileConfigurationProviderDLL\obj\Debug\FileConfigurationProviderDLL.pdb
